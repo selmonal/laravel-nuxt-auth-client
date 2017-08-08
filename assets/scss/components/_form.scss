@@ -1,0 +1,17 @@
+.form-field {
+  margin-bottom: 1rem;
+
+  label {
+    line-height: 2.5;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+}
+
+.form-control {
+  border: 1px solid #eaeaea;
+  padding: 10px 0px;
+  border-radius: 3px;
+}

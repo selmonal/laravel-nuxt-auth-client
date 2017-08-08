@@ -1,0 +1,41 @@
+/**
+ * Heights ...
+ */
+
+.height-md {
+  height: 4rem;
+}
+
+/**
+ * Positions ...
+ */
+
+.vcentered {
+  display: flex;
+  align-items: center;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: space-between;
+}
+
+/**
+ * Borders ...
+ */
+
+.border-bt-grey {
+  border-bottom: 1px solid #eaeaea;
+}
+
+/**
+ * Spacing ...
+ */
+
+.margin-bt-sm {
+  margin-bottom: 2rem;
+}
+
+.margin-bt-md {
+  margin-bottom: 4rem;
+}

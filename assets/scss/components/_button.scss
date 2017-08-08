@@ -1,0 +1,9 @@
+.button {
+  background: white;
+  border: 1px solid #eaeaea;
+  padding: 10px 20px;
+  cursor: pointer;
+  &:hover {
+    background: darken(white, 20%);
+  }
+}
